@@ -122,3 +122,5 @@ python get_results.py sample_predictions.csv 0.4
 ```
 
 To test **your own** submission, change the code to instead include the path to **your** CSV file.
+
+#leon get from https://github.com/udacity/dermatologist-ai.git
